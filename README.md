@@ -25,7 +25,6 @@ An educational website inspired by Apna College, designed to provide students wi
 ### 📚 Courses Section
 ![Courses Section](https://github.com/user-attachments/assets/8e82ab4c-37fa-4734-b0bd-754ac78c9c60)
 
-> ⚠️ *Replace the image links above with correct GitHub image URLs (upload images in the repo's issue or discussion to get public URLs).*
 
 ## 🚀 Future Enhancements
 
