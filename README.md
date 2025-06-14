@@ -8,8 +8,8 @@ An educational website inspired by Apna College, designed to provide students wi
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 📌 Features
 
